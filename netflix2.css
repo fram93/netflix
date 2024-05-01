@@ -1,0 +1,55 @@
+*{
+  background-color: black;
+  color: whitesmoke;
+  margin-left: 2px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+a:link {
+text-decoration: none;
+}
+
+nav{
+margin-bottom: 30px;
+}
+
+.listanav{
+  margin: 0;
+  padding: 0;
+  display: flex; 
+  align-items: center;
+  background-color: black;
+  }
+.logo {  
+  display: flex;
+  align-items: flex-start;
+  padding-right: 50px;}
+a {
+  padding-left: 30px;
+  }
+li {
+  display: inline;
+}
+
+h4 {
+  font-size: larger;
+  margin-left: 6px;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  display: flex;
+  align-self: flex-start;
+}
+
+.images, .images2, .images3 {
+  
+  display: flex;
+  flex-wrap: wrap;
+  }
+.uno, .due, .tre,.quattro {
+  margin-left: 3px;
+  border-radius: 20px;
+ }
+
+
